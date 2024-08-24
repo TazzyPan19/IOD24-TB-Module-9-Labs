@@ -1,4 +1,4 @@
-# IOD24 Module 1: Lab Work
+# IOD24 Module 9: Lab Work
 
 - Lab 1 MVC Structure
 - Lab 2 MongooseDB API
